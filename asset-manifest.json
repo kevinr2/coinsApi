@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coinsApi/static/css/main.0ed47172.chunk.css",
+    "main.js": "/coinsApi/static/js/main.ee9258e0.chunk.js",
+    "main.js.map": "/coinsApi/static/js/main.ee9258e0.chunk.js.map",
+    "runtime-main.js": "/coinsApi/static/js/runtime-main.66fcb478.js",
+    "runtime-main.js.map": "/coinsApi/static/js/runtime-main.66fcb478.js.map",
+    "static/css/2.818011ed.chunk.css": "/coinsApi/static/css/2.818011ed.chunk.css",
+    "static/js/2.81356aec.chunk.js": "/coinsApi/static/js/2.81356aec.chunk.js",
+    "static/js/2.81356aec.chunk.js.map": "/coinsApi/static/js/2.81356aec.chunk.js.map",
+    "static/js/3.2126fd1f.chunk.js": "/coinsApi/static/js/3.2126fd1f.chunk.js",
+    "static/js/3.2126fd1f.chunk.js.map": "/coinsApi/static/js/3.2126fd1f.chunk.js.map",
+    "index.html": "/coinsApi/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/coinsApi/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0ed47172.chunk.css.map": "/coinsApi/static/css/main.0ed47172.chunk.css.map",
+    "static/js/2.81356aec.chunk.js.LICENSE.txt": "/coinsApi/static/js/2.81356aec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66fcb478.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.81356aec.chunk.js",
+    "static/css/main.0ed47172.chunk.css",
+    "static/js/main.ee9258e0.chunk.js"
+  ]
+}
